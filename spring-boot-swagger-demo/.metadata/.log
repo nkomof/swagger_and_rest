@@ -1,0 +1,30 @@
+!SESSION 2019-06-26 17:24:32.453 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_ZA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/nkomof/totalBeginner/spring-boot-swagger-demo -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-26 17:24:35.552
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-06-27 11:21:44.922 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_ZA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/nkomof/totalBeginner/spring-boot-swagger-demo -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-27 11:21:52.009
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2019-06-27 11:33:38.599 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_ZA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/nkomof/totalBeginner/spring-boot-swagger-demo -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-06-27 11:33:41.197
+!MESSAGE Using Apache MINA sshd as ssh client.
