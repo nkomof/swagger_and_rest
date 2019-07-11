@@ -1,15 +1,24 @@
 package com.totalbeginner.springbootswaggerdemo.resource;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @EqualsAndHashCode
+@AllArgsConstructor
+@NoArgsConstructor
 @Builder
+@Getter @Setter
+@Document
 public class User {
-	@Getter @Setter
 	private String userName;
-	@Getter @Setter
 	private Long salary;
+	@Id 
+	private Integer id;
 }

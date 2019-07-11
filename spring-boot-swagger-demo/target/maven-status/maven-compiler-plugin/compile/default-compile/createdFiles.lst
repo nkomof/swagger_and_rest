@@ -1,0 +1,9 @@
+com/totalbeginner/springbootswaggerdemo/config/SwaggerConfiguration.class
+com/totalbeginner/springbootswaggerdemo/resource/HelloResource.class
+com/totalbeginner/springbootswaggerdemo/resource/UserResource.class
+com/totalbeginner/springbootswaggerdemo/resource/User.class
+com/totalbeginner/springbootswaggerdemo/config/MongoDBConfiguration$1.class
+com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplication.class
+com/totalbeginner/springbootswaggerdemo/config/MongoDBConfiguration.class
+com/totalbeginner/springbootswaggerdemo/repository/UserRepository.class
+com/totalbeginner/springbootswaggerdemo/resource/User$UserBuilder.class
