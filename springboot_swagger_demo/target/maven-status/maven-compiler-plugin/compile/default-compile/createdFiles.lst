@@ -1,9 +1,8 @@
-com/totalbeginner/springbootswaggerdemo/config/SwaggerConfiguration.class
-com/totalbeginner/springbootswaggerdemo/resource/HelloResource.class
-com/totalbeginner/springbootswaggerdemo/resource/UserResource.class
-com/totalbeginner/springbootswaggerdemo/resource/User.class
-com/totalbeginner/springbootswaggerdemo/config/MongoDBConfiguration$1.class
-com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplication.class
-com/totalbeginner/springbootswaggerdemo/config/MongoDBConfiguration.class
-com/totalbeginner/springbootswaggerdemo/repository/UserRepository.class
-com/totalbeginner/springbootswaggerdemo/resource/User$UserBuilder.class
+com/mondia/swagger/config/MongoDBConfiguration$1.class
+com/mondia/swagger/config/MongoDBConfiguration.class
+com/mondia/swagger/config/SwaggerConfiguration.class
+com/mondia/swagger/entity/User$UserBuilder.class
+com/mondia/swagger/repository/UserRepository.class
+com/mondia/swagger/SpringBootSwaggerDemoApplication.class
+com/mondia/swagger/resource/UserResource.class
+com/mondia/swagger/entity/User.class

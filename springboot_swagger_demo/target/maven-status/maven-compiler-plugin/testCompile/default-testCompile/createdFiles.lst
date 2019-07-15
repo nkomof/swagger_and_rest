@@ -1,3 +1,3 @@
-com/totalbeginner/springbootswaggerdemo/user/UserTest.class
-com/totalbeginner/springbootswaggerdemo/resource/UserResourceTest.class
-com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplicationTests.class
+com/mondia/swagger/SpringBootSwaggerDemoApplicationTests.class
+com/mondia/swagger/resource/UserResourceTest.class
+com/mondia/swagger/user/UserTest.class

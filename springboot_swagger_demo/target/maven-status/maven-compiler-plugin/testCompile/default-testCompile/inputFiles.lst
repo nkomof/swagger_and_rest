@@ -1,3 +1,3 @@
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/totalbeginner/springbootswaggerdemo/resource/UserResourceTest.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/totalbeginner/springbootswaggerdemo/user/UserTest.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplicationTests.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/mondia/swagger/resource/UserResourceTest.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/mondia/swagger/SpringBootSwaggerDemoApplicationTests.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/test/java/com/mondia/swagger/user/UserTest.java

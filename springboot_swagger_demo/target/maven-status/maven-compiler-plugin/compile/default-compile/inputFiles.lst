@@ -1,7 +1,6 @@
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/config/MongoDBConfiguration.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/UserResource.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/HelloResource.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/config/SwaggerConfiguration.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/SpringBootSwaggerDemoApplication.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/resource/User.java
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/totalbeginner/springbootswaggerdemo/repository/UserRepository.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/config/MongoDBConfiguration.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/repository/UserRepository.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/resource/UserResource.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/config/SwaggerConfiguration.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/SpringBootSwaggerDemoApplication.java
+/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/entity/User.java
