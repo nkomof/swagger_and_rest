@@ -1,5 +1,3 @@
-com/mondia/swagger/config/MongoDBConfiguration$1.class
-com/mondia/swagger/config/MongoDBConfiguration.class
 com/mondia/swagger/config/SwaggerConfiguration.class
 com/mondia/swagger/entity/User$UserBuilder.class
 com/mondia/swagger/repository/UserRepository.class

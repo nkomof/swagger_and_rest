@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mondia.swagger.user.UserTest" time="0.004" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="com.mondia.swagger.user.UserTest" time="0.002" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/java/jdk1.8.0_211/jre/lib/amd64"/>
@@ -25,7 +25,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/home/nkomof/Desktop/friday/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4712978277968810813.tmp"/>
+    <property name="classworlds.conf" value="/home/nkomof/Desktop/friday/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4581074820641891527.tmp"/>
     <property name="jansi.force" value="true"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
@@ -62,6 +62,7 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testUserName" classname="com.mondia.swagger.user.UserTest" time="0.004"/>
+  <testcase name="testUserName" classname="com.mondia.swagger.user.UserTest" time="0.002"/>
   <testcase name="testUserSalary" classname="com.mondia.swagger.user.UserTest" time="0"/>
+  <testcase name="testUserId" classname="com.mondia.swagger.user.UserTest" time="0"/>
 </testsuite>

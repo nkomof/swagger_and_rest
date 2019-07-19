@@ -1,4 +1,3 @@
-/home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/config/MongoDBConfiguration.java
 /home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/repository/UserRepository.java
 /home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/resource/UserResource.java
 /home/nkomof/Desktop/friday/springboot_swagger_demo/src/main/java/com/mondia/swagger/config/SwaggerConfiguration.java

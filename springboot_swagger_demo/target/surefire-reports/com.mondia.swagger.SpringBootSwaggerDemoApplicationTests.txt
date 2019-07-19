@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mondia.swagger.SpringBootSwaggerDemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.518 sec - in com.mondia.swagger.SpringBootSwaggerDemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.506 sec - in com.mondia.swagger.SpringBootSwaggerDemoApplicationTests

@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: spring-boot-swagger-demo
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: nkomof
-Implementation-Vendor-Id: com.totalbeginner
+Implementation-Vendor-Id: com.mondia.swagger
 Build-Jdk: 1.8.0_212
 Implementation-URL: https://projects.spring.io/spring-boot/spring-boot
  -swagger-demo/

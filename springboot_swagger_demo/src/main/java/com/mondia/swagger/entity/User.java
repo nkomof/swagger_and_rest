@@ -3,6 +3,8 @@ package com.mondia.swagger.entity;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
@@ -16,9 +18,16 @@ import lombok.Setter;
 @Builder
 @Getter @Setter
 @Document
+@ApiModel(description = "User")
 public class User {
+
+    @ApiModelProperty(dataType = "String", value = "Name of the user")
 	private String userName;
+
+    @ApiModelProperty(dataType = "Long", value = "Salary of the user")
 	private Long salary;
-	@Id 
+
+    @Id
+    @ApiModelProperty(dataType = "Integer", value = "Id of the user")
 	private Integer id;
 }
