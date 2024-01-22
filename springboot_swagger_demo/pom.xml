@@ -19,7 +19,7 @@
 		<java.version>1.8</java.version>
         <springfox.version>2.9.2</springfox.version>
         <rest-assured.version>3.0.3</rest-assured.version>
-        <jsonpath.version>2.2.0</jsonpath.version>
+        <jsonpath.version>2.9.0</jsonpath.version>
         <jupiter.version>5.4.2</jupiter.version>
 	</properties>
 
